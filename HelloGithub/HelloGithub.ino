@@ -27,6 +27,7 @@ void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
   delay (1000); //Kijken of comments leesbaar zijn op github
+  delay (1000);
 }
 
 
